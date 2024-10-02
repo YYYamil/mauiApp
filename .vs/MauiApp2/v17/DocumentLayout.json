@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MauiApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A626E40A-7D07-498C-B1E4-66E5A3D8073E}|MauiApp2\\MauiApp2.csproj|c:\\users\\admin\\source\\repos\\mauiapp2\\mauiapp2\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A626E40A-7D07-498C-B1E4-66E5A3D8073E}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A626E40A-7D07-498C-B1E4-66E5A3D8073E}|MauiApp2\\MauiApp2.csproj|c:\\users\\admin\\source\\repos\\mauiapp2\\mauiapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A626E40A-7D07-498C-B1E4-66E5A3D8073E}|MauiApp2\\MauiApp2.csproj|solutionrelative:mauiapp2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MauiApp2\\MauiApp2\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "MauiApp2\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MauiApp2\\MauiApp2\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "MauiApp2\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:54:56.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MauiApp2\\MauiApp2\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp2\\MainPage.xaml",
